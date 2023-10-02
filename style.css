@@ -7,3 +7,8 @@ h1 {
 p {
   color: #1b1818;
 }
+        hr {
+            height: 4px;
+            background-color: black;
+            border: none;
+        }
