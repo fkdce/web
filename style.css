@@ -1,17 +1,2 @@
-hr.line {
-    padding: 0;
-    border: 1px solid;
-    color: #333;
-    text-align: center;
-}
-
-.box {
-    background-color:teal;
-    width:100px;
-    height:30px;
-    position:absolute;
-    left: 40%;
-    bottom:90%;
-    padding-top:20px;
-
-}
+bg.color {background-color: #e8b5b5;
+     }
