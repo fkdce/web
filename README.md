@@ -1,3 +1,2 @@
 # web
-my personal website
-nuh uh
+my personal website or something
