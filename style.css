@@ -1,2 +1,9 @@
-bg.color {background-color: #e8b5b5;
-     }
+body {
+  background-color: #e8b5b5;
+}
+h1 {
+  color: #1b1818;
+}
+p {
+  color: #1b1818;
+}
